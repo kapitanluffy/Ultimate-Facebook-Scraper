@@ -4,7 +4,7 @@
   </div>
 </a>
 
-<h1 align="center">Ultimate Facebook Scraper - UFS</h1>
+<h1 align="center">Ultimate Facebook Scraper - UFS (revived)</h1>
 <h3 align="center"> The ultimate Facebook Data Collection Software for: <i>Businesses, Sales & Marketing People and Researchers</i></h3>
 <hr>
 
